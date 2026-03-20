@@ -1,0 +1,9 @@
+.DS_Store
+.venv
+.env
+.ruff_cache/
+__pycache__
+api/__pycache__
+reports.db
+logs/
+reports/
